@@ -2,7 +2,7 @@ import React from 'react';
 import { Canvas } from '@react-three/fiber';
 import { OrbitControls, Stars } from '@react-three/drei';
 import * as THREE from 'three';
-import earthTexture from './static/Mars.webp'; // Replace with the actual path to your earth texture image
+import earthTexture from './Mars.webp'; // Replace with the actual path to your earth texture image
 
 function CustomSphere() {
   return (
